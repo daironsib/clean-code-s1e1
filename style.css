@@ -53,7 +53,8 @@ button {
 }
 
 .task__name,
-.task__inp {
+.task__inp,
+.add-form__input {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
