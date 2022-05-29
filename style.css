@@ -35,7 +35,7 @@ button {
 }
 
 .header .header__more-inf {
-  font-family: "Fantasy", "cursive";
+  font-family: Fantasy, cursive;
 }
 
 @media (max-width: 768px) {
